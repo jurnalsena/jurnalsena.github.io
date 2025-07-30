@@ -3,8 +3,8 @@
   "version": "1.2.0",
   "urgent": true,
   "message": "🎉 Update MyCrush - Idle Clicker! is available! Get 50000 Gold and 500 Crush Coin by entering the code: LUNAVERSE2025 in the Redeem Code menu.",
-  /* "changelog": "✨ Fitur Baru:\n• Sistem notifikasi update otomatis\n• 8 cerita per karakter dengan gambar header\n• Efek blur dan icon kunci untuk cerita terkunci\n• Modal bisa ditutup dengan klik di luar area\n• Personalisasi nama player di cerita dan dialog\n\n🐛 Perbaikan Bug:\n• Fix dialog karakter dengan placeholder {player}\n• Perbaikan sistem save/load game\n• Stabilisasi game loop dan performa\n• Fix main menu tidak muncul saat reset/new game\n\n🎨 UI/UX Improvements:\n• Tombol Story sejajar dengan Change Outfit\n• Efek visual yang lebih menarik\n• Responsive design untuk mobile",
-  "downloadUrl": "https://github.com/your-username/my-crush-clicker/releases/latest", */
+  "changelog": "",
+  "downloadUrl": "",
   "releaseDate": "2024-01-15",
   "minVersion": "1.1.0"
 } 
